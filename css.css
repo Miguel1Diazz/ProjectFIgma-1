@@ -68,6 +68,11 @@
     border-radius: 4px;
     margin-top: 10px;
 }
+.section2 button:hover{
+    background-color: white;
+    border: 2px solid grey;
+    color: black;
+}
 .section2 img{
     width: 540px;
     height: 588px;
@@ -100,6 +105,11 @@
     height: 51px;
     border-radius: 4px;
     margin-top: 10px;
+}
+.sec3naure button:hover{
+    background-color: white;
+    border: 2px solid grey;
+    color: black;
 }
 .section4{
     width: 1094px;
@@ -213,6 +223,12 @@ margin-bottom: 24px;
     border-radius: 4px;
     margin-top: 10px;
     margin-top: 32px;
+}
+.bbbbtm:hover{
+    background-color: white;
+    border: 2px solid grey;
+    color: black;
+        
 }
 .sadksajdsalkdjaslkda{
     border: none;
