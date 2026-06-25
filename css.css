@@ -51,11 +51,13 @@
     font-weight: 600;
     font-size: 48px;
     color: #192252;
+    line-height: 150%;
 }
 .p2{
     font-weight: 400;
     font-size: 18px;
     color: #848FAC;
+ 
 }
 .section2 button{
     border: none;
@@ -69,4 +71,33 @@
 .section2 img{
     width: 540px;
     height: 588px;
+}
+.section3{
+    width: 1200px;
+    height: 576px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section3 img{
+    width: 384px;
+    height: 576px;
+}
+.sec3naure{
+    width: 690px;
+    height: 366px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.sec3naure button{
+         border: none;
+    background-color: #0E1734;
+    color: white;
+    width: 151px;
+    height: 51px;
+    border-radius: 4px;
+    margin-top: 10px;
 }
