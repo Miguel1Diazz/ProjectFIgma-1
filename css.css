@@ -57,7 +57,7 @@
     font-weight: 400;
     font-size: 18px;
     color: #848FAC;
- 
+    text-align: justify;
 }
 .section2 button{
     border: none;
@@ -100,4 +100,22 @@
     height: 51px;
     border-radius: 4px;
     margin-top: 10px;
+}
+.section4{
+    width: 1094px;
+    height: 384px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section4 img{
+    width: 384px;
+    height: 384px;
+}
+.sec4naure{
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
 }
