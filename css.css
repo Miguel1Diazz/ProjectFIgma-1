@@ -289,3 +289,34 @@ margin-bottom: 24px;
     font-size: 36px;
     color: #192252;
 }
+.section8{
+    width: 100%;
+    height: 400px;
+    background-color: #0B265A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.fbl1{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 400px;
+}
+.fsoc{
+    display: flex;
+    gap: 16px;
+    margin-top: 30px;
+}
+.fcol{
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+}
+.fsh{
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 4px;
+}
